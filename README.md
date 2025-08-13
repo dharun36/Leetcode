@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0941-sort-array-by-parity](https://github.com/dharun36/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1848-sum-of-unique-elements](https://github.com/dharun36/Leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Hash Table
 |  |
@@ -14,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1848-sum-of-unique-elements](https://github.com/dharun36/Leetcode/tree/master/1848-sum-of-unique-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0941-sort-array-by-parity](https://github.com/dharun36/Leetcode/tree/master/0941-sort-array-by-parity) |
+## Sorting
+|  |
+| ------- |
+| [0941-sort-array-by-parity](https://github.com/dharun36/Leetcode/tree/master/0941-sort-array-by-parity) |
 <!---LeetCode Topics End-->
