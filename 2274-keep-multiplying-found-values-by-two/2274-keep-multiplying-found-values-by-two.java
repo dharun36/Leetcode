@@ -5,13 +5,10 @@ class Solution {
             freq[i]++;
 
         }
-        while(true){
-            if(original>1000 || freq[original]==0  ){
-
-               return original;
-
-            }
+        while(!(original>1000 || freq[original]==0 )){
+           
             original*=2;
         }
+        return original;
     }
 }
