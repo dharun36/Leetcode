@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/dharun36/Leetcode/tree/master/0217-contains-duplicate) |
 | [1848-sum-of-unique-elements](https://github.com/dharun36/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dharun36/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/dharun36/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [1848-sum-of-unique-elements](https://github.com/dharun36/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/dharun36/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dharun36/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/dharun36/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
