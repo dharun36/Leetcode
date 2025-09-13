@@ -49,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/dharun36/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/dharun36/Leetcode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/dharun36/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
