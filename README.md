@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dharun36/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/dharun36/Leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dharun36/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dharun36/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/dharun36/Leetcode/tree/master/0217-contains-duplicate) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/dharun36/Leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dharun36/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dharun36/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dharun36/Leetcode/tree/master/0283-move-zeroes) |
