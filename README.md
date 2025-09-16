@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/dharun36/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/dharun36/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/dharun36/Leetcode/tree/master/0414-third-maximum-number) |
+| [0917-boats-to-save-people](https://github.com/dharun36/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/dharun36/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1635-number-of-good-pairs](https://github.com/dharun36/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/dharun36/Leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/dharun36/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dharun36/Leetcode/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dharun36/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0917-boats-to-save-people](https://github.com/dharun36/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/dharun36/Leetcode/tree/master/0941-sort-array-by-parity) |
 ## Sorting
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/dharun36/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dharun36/Leetcode/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/dharun36/Leetcode/tree/master/0414-third-maximum-number) |
+| [0917-boats-to-save-people](https://github.com/dharun36/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/dharun36/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dharun36/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Simulation
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0917-boats-to-save-people](https://github.com/dharun36/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1917-maximum-average-pass-ratio](https://github.com/dharun36/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 ## Heap (Priority Queue)
 |  |
