@@ -2,10 +2,7 @@ class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
         int i = 0;
-        for(i = nums.size()-1;i>0;i--){
-            if(nums[i]>nums[i-1])break;
-           
-        }
+        for(i = nums.size()-1;i>0 && nums[i]<=nums[i-1];i--);
         i--;
         if(i>=0){
             int j;
