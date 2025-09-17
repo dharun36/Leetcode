@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/dharun36/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dharun36/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/dharun36/Leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/dharun36/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/dharun36/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/dharun36/Leetcode/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/dharun36/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -158,4 +159,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/dharun36/Leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/dharun36/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/dharun36/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
