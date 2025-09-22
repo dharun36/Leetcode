@@ -114,12 +114,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/dharun36/Leetcode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dharun36/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/dharun36/Leetcode/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/dharun36/Leetcode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/dharun36/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/dharun36/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/dharun36/Leetcode/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/dharun36/Leetcode/tree/master/1013-fibonacci-number) |
 ## Database
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/dharun36/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dharun36/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dharun36/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/dharun36/Leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -190,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/dharun36/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/dharun36/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
