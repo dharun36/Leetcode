@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/dharun36/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/dharun36/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dharun36/Leetcode/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/dharun36/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/dharun36/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dharun36/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dharun36/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/dharun36/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dharun36/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/dharun36/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/dharun36/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/dharun36/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dharun36/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/dharun36/Leetcode/tree/master/0198-house-robber) |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/dharun36/Leetcode/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/dharun36/Leetcode/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
