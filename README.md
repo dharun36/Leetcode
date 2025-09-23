@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/dharun36/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/dharun36/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dharun36/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dharun36/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/dharun36/Leetcode/tree/master/0189-rotate-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dharun36/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dharun36/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/dharun36/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dharun36/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dharun36/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/dharun36/Leetcode/tree/master/0198-house-robber) |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/dharun36/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/dharun36/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/dharun36/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/dharun36/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
