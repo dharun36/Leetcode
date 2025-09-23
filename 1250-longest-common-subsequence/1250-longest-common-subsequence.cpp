@@ -17,4 +17,4 @@ public:
         return dp[n][m];
     }
 };
-auto inti =atexit([]{ ofstream("display_runtime.txt") << "0"; });
+// auto inti =atexit([]{ ofstream("display_runtime.txt") << "0"; });
