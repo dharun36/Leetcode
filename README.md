@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/dharun36/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dharun36/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/dharun36/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/dharun36/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dharun36/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dharun36/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dharun36/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -234,4 +235,9 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0039-combination-sum](https://github.com/dharun36/Leetcode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/dharun36/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/dharun36/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/dharun36/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
