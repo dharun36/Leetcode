@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dharun36/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dharun36/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/dharun36/Leetcode/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/dharun36/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/dharun36/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dharun36/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/dharun36/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -231,5 +232,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/dharun36/Leetcode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/dharun36/Leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
