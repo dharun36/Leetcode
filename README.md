@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/dharun36/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/dharun36/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/dharun36/Leetcode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/dharun36/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/dharun36/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/dharun36/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/dharun36/Leetcode/tree/master/0735-asteroid-collision) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/dharun36/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dharun36/Leetcode/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/dharun36/Leetcode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/dharun36/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0917-boats-to-save-people](https://github.com/dharun36/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/dharun36/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dharun36/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/dharun36/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0917-boats-to-save-people](https://github.com/dharun36/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1917-maximum-average-pass-ratio](https://github.com/dharun36/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 ## Heap (Priority Queue)
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/dharun36/Leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dharun36/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/dharun36/Leetcode/tree/master/0198-house-robber) |
+| [0435-non-overlapping-intervals](https://github.com/dharun36/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/dharun36/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/dharun36/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/dharun36/Leetcode/tree/master/1013-fibonacci-number) |
