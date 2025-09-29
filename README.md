@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/dharun36/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dharun36/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dharun36/Leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/dharun36/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/dharun36/Leetcode/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dharun36/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-boats-to-save-people](https://github.com/dharun36/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/dharun36/Leetcode/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/dharun36/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/dharun36/Leetcode/tree/master/1013-fibonacci-number) |
 ## Database
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/dharun36/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/dharun36/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dharun36/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/dharun36/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/dharun36/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/dharun36/Leetcode/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/dharun36/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -250,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/dharun36/Leetcode/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/dharun36/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
