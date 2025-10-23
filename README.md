@@ -1,5 +1,6 @@
 A collection of LeetCode questions to ace the coding interview!
 
+Make use of it
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
