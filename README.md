@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/dharun36/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dharun36/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/dharun36/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/dharun36/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/dharun36/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dharun36/Leetcode/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/dharun36/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/dharun36/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dharun36/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dharun36/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/dharun36/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/dharun36/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/dharun36/Leetcode/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dharun36/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/dharun36/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dharun36/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/dharun36/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/dharun36/Leetcode/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/dharun36/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/dharun36/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/dharun36/Leetcode/tree/master/1635-number-of-good-pairs) |
