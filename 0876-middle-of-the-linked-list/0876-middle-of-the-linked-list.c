@@ -6,18 +6,14 @@
  * };
  */
 struct ListNode* middleNode(struct ListNode* head) {
-        struct ListNode *temp=head;
-        int count=0;
-        while(temp){
-            count++;
-            temp=temp->next;
-        }
-        count=count/2;
-        temp=head;
+        struct ListNode* fast=head;
+        struct ListNode * slow=head;
 
-        while(temp && count>0){
-            temp=temp->next;
-            count--;
+
+        while(fast && fast->next){
+            fast=fast->next->next;
+            slow=slow->next;
         }
-        return temp;
+
+        return slow;
 }
