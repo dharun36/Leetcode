@@ -15,15 +15,12 @@ public:
         ListNode * prev = NULL;
 
         while(temp){
-            int f=1;
             if(temp->val==val){
                 if(prev) prev->next=temp->next;
                 else head=temp->next;
-                f=0;
-
+             
             }
-            if(f)
-            prev = temp;
+            else prev = temp;
             
             temp=temp->next;
         }
