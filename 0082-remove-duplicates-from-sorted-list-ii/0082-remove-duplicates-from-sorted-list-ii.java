@@ -10,30 +10,30 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-        ListNode curr= head;
         ListNode prev = null;
+        ListNode temp = head;
 
+        while(temp!=null){
+            if(temp.next!=null && temp.val==temp.next.val){
+                while(temp.next!=null && temp.val==temp.next.val)temp=temp.next;
 
+                if(prev==null)head=temp.next;
+                else{
+                    prev.next=temp.next;
 
-        while(curr!=null && curr.next!=null){
-            
-            if(curr.val == curr.next.val){
-                while(curr.next!=null && curr.val == curr.next.val){
-                    curr=curr.next;
                 }
-
-                if(prev==null)head=curr.next;
-                else prev.next=curr.next;
-                curr=curr.next;
+                temp=temp.next;
             }
             else{
-                prev=curr;
-                curr=curr.next;
+                prev=temp;
+                temp=temp.next;
             }
-        
+
+
         }
-        
 
         return head;
+
+        
     }
 }
