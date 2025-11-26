@@ -24,7 +24,7 @@ public:
 
         while(st.size()){
             tail->next=st.top();
-            tail=st.top();
+            tail=tail->next;
             st.pop();
         }
 
