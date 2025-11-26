@@ -1,5 +1,5 @@
 /**
- * Definition for singly-linked list.
+ * Definition for singly-linked list->
  * struct ListNode {
  *     int val;
  *     ListNode *next;
@@ -11,26 +11,16 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        if(head==NULL)return NULL;
-        stack<ListNode*> st;
-        ListNode* temp = head;
-        while(temp){
-            st.push(temp);
-            temp=temp->next;
+        ListNode* curr=head;
+        ListNode * prev=NULL;
+        ListNode * next=NULL;
+
+        while(curr){
+            next = curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=next;
         }
-        ListNode * newhead=st.top();
-        ListNode * tail=st.top();
-        st.pop();
-
-        while(st.size()){
-            tail->next=st.top();
-            tail=tail->next;
-            st.pop();
-        }
-
-        tail->next=NULL;
-
-        return newhead;
-
+        return prev;
     }
 };
