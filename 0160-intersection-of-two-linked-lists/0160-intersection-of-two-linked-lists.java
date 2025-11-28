@@ -15,7 +15,6 @@ public class Solution {
         ListNode temp= headA;
 
         while(temp!=null){
-            if(hs.contains(temp)) return temp;
             hs.add(temp);
             temp=temp.next;
 
