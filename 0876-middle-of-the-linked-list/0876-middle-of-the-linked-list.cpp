@@ -1,5 +1,5 @@
 /**
- * Definition for singly-linked list.
+ * Definition for singly-linked list->
  * struct ListNode {
  *     int val;
  *     ListNode *next;
@@ -11,13 +11,13 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        ListNode* fast=head;
-        ListNode * slow=head;
-
+        ListNode* slow = head;
+        ListNode * fast = head;
 
         while(fast && fast->next){
-            fast=fast->next->next;
-            slow=slow->next;
+            fast = fast->next->next;
+            slow = slow->next;
+
         }
 
         return slow;
