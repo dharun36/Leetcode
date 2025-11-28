@@ -23,7 +23,6 @@ public class Solution {
 
         while(temp!=null){
             if(hs.contains(temp)) return temp;
-            hs.add(temp);
             temp=temp.next;
 
         }
