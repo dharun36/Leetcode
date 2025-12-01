@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0876-middle-of-the-linked-list](https://github.com/dharun36/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/dharun36/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/dharun36/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [1768-merge-strings-alternately](https://github.com/dharun36/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dharun36/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1078-remove-outermost-parentheses](https://github.com/dharun36/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/dharun36/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/dharun36/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/dharun36/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/dharun36/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
