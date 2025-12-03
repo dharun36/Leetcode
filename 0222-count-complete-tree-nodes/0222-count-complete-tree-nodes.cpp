@@ -13,15 +13,13 @@ class Solution {
 public:
      int countV = 0;
 
-    void count(TreeNode* root){
-        if(root == NULL)return;
-        count(root->left);
+    int count(TreeNode* root){
+        if(root == NULL)return 0;
+        return count(root->left)+1+
         count(root->right);
-        countV++;
 
     }
     int countNodes(TreeNode* root) {
-        count(root);
-        return countV;
+        return count(root);
     }
 };
